@@ -1,4 +1,0 @@
-slide show block of blogs
-dynamic blogs react
-navbar 
-flexbox
