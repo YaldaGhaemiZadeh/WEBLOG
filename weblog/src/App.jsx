@@ -1,7 +1,7 @@
-import Navbar from './components/NavBar'
+import Navbar from './components/Navbar'
 import Home from './components/Home'
 import Blog from './components/Blog'
-import Slider from './components/Slider'
+// import Slider from './components/Slider'
 import Banner from './components/Banner'
 import './index.css'
 
@@ -13,7 +13,7 @@ function App() {
     <br /><br />
     <Banner></Banner>
     <br /><br />
-    <Slider></Slider>
+    {/* <Slider></Slider> */}
     <br /><br />
   </div>
   )

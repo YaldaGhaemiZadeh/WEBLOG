@@ -1,7 +1,7 @@
 const Banner = () => {
     return ( 
         <div>
-            <div id="container" className="bg-blue-700 w-[1020px] h-[400px] ml-[20px] rounded-[2rem] z-10"></div>
+            <div className="bg-[#1D4Ed8] flex flex-1 p-4 mx-6 h-[25rem] rounded-[25px]"></div>
         </div>
      );
 }

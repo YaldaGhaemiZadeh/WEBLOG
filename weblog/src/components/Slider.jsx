@@ -9,7 +9,7 @@ import 'swiper/css/scrollbar';
 const Slider = () => {
     return ( 
         
-        <div id="container" className="bg-[#3F3F3F] w-[1020px] h-[400px] ml-[20px] rounded-[2rem]">
+        <div id="container" className="bg-[#3F3F3F] w-[1040px] h-[400px] mx-12 rounded-[2rem]">
 
 <Swiper
               // install Swiper modules
