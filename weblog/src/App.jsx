@@ -1,7 +1,7 @@
 import Navbar from './components/Navbar'
 import Home from './components/Home'
 import Blog from './components/Blog'
-// import Slider from './components/Slider'
+import Ham_menu from './components/Ham_menu'
 import Banner from './components/Banner'
 import './index.css'
 
@@ -11,9 +11,8 @@ function App() {
   <div className=''>
     <Navbar />
     <br /><br />
+    <Ham_menu />
     <Banner></Banner>
-    <br /><br />
-    {/* <Slider></Slider> */}
     <br /><br />
   </div>
   )
