@@ -1,6 +1,0 @@
-slide show block of blogs
-dynamic blogs react
-navbar 
-flexbox
-
- h-20 max-w-[1080px] text-black box-border p-7 flex justify-end shadow-xl shadow-transparent text-[20px] font-semibold font-mono
