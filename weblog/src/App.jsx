@@ -11,7 +11,7 @@ function App() {
   <div className=''>
     <Navbar />
     <br /><br />
-    <Ham_menu />
+    {/* <Ham_menu /> */}
     <Banner></Banner>
     <br /><br />
   </div>
